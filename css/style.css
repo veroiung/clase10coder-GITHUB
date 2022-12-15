@@ -6,6 +6,7 @@
 .container{
     color: gold;
     animation: cambiaColor 2s infinite;
+    font-size: 200px;
 
 }
 
