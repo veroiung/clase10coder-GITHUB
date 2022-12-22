@@ -12,7 +12,7 @@
 
 @keyframes cambiaColor {
     from{
-        color:blue;
+        color:rgb(238, 238, 12);
     }
     to{
         color:black;
